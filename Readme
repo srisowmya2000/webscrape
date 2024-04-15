@@ -1,1 +1,19 @@
+WEB SCRAPING
 
+
+It is the process of automation which allows you to gather information from the website. In this project, i will be using Python to develop a websraper and i will be using Beautiful Soup, requests,lxml libraries on Jupiter notebook. 
+It is important to know that we use the same code for all the websites as they have different builds. We need to have a basic understanding of HTML and CSS. 
+
+There are other ways to scrape the websites such as Scrappy and Selenium. 
+
+
+
+
+
+
+
+
+
+Reference: 
+1. https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/20345231#overview
+2. https://www.youtube.com/watch?v=A1s1aGHoODs&list=PL7grxd9bSgyDD2lhdTee7ZgnGO8WpgJli&index=2 
